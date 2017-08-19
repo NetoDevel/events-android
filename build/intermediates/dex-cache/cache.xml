@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_15451c5115d53da75adf922712eb7f3a1319ef62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb2d1e9fb5cb5a19284cab1093c92c5d42ea8861">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a81bf86aa855aa4d5396a430f66d9ab0707be4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_434f7f1354872cf5d352c23dc4ce52e8b2aca765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_acad079ec6b9e4e6754bd49342f089e16a3e0169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_e8caef930d770d5d15548c6d687c7f1448df4917/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_bfea3423b20ffbb30c4e150483dc77bb978dcfcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_f89d310bc67dcb7dcccb656fcb3aa1e8ea83fac4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_01236cd516288263f86e75553c2db10dff292c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_ca56515c866fd01687bb8225fa8590d812b60466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_deb6613a8abf6baa59e005047c190e08370771c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d1f9cfaad486c919bb32428e0f06a45d50ca82e">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f37601abb56e2e3612a575b01988fdb8d7e81f73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/neto/Documentos/open-sources/events-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_d1a7c1eb968046aea24f7b6dd9b805bc1fea1481/classes.dex" />
+    </item>
+
+</items>
