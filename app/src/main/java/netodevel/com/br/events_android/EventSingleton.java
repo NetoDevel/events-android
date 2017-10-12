@@ -19,6 +19,10 @@ public class EventSingleton {
         this.eventListener = eventListener;
     }
 
+    public void unRegisterEvent() {
+        this.eventListener = null;
+    }
+
     public void emitterDone() {
         this.eventListener.done();
     }

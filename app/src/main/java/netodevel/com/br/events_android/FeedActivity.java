@@ -43,6 +43,12 @@ public class FeedActivity extends AppCompatActivity {
         });
     }
 
+    @Override
+    protected void onStop() {
+        super.onStop();
+        eventSingleton.unRegisterEvent();
+    }
+
     private void showProgress() {
         if (this.mAppPreferences.getBoolean("PROGRESS", false)) {
             textViewProgress.setVisibility(View.VISIBLE);
